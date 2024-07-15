@@ -3,9 +3,9 @@
 # 21110025 - Nguyễn Thành Hiếu
 # Extra Lab: firewall
 
-## Setup docker for lab
 
-*First we will launch the target.py website. We can see the website's interface:*
+
+*First we setup docker for lab:*
 
 <img width="726" alt="fw1.jpg" src="https://github.com/NguyenThanhHieu-21110025/InformationSecurity-Lab/blob/main/images/fw1.jpg" >
 <img width="726" alt="fw2.jpg" src="https://github.com/NguyenThanhHieu-21110025/InformationSecurity-Lab/blob/main/images/fw2.jpg" >
